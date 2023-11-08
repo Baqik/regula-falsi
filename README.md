@@ -2,7 +2,7 @@
 Tugas Metode Numerik 
 
 # Regula Falsi Code
-ini kode
+kode nya di bawah sini ommm
 
     def f(x):
     return x**2 - 6*x + 5
